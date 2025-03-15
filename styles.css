@@ -124,7 +124,7 @@
         iframe {
             display: center;
             text-align: center;
-                background: rgb(9, 5, 199);
+                
                 padding: 3px;
                 border-radius: 5px;
                 height: 270px;
@@ -379,7 +379,7 @@
             iframe {
                 display: center;
                 text-align: center;
-                    background: #2401ee;
+                    
                     padding: 3px;
                     border-radius: 5px;
                     height: 220px;
